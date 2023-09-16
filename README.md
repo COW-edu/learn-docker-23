@@ -1,13 +1,8 @@
 # 도커 스터디
 
-- 기간: 2023.09.04 ~ 00.00
+- 기간: 2023.09.04 ~ 12.27
 - 시간 및 장소: 매주 월요일 오후 9시 (온라인)
 - 스터디원: 5명
-
-## 핵심 스터디 결과물
-
-- [핵심 결과물 링크를 추가해주세요](https://github.com/Learning-Is-Vital-In-Development)
-1. [핵심 결과물 링크를 추가해주세요](https://github.com/Learning-Is-Vital-In-Development)
 
 ## 진행방식
 
@@ -16,20 +11,20 @@
 
 ### 주차별 분량
 
-| 주차별 분량                                |
-|:--------------------------------------|
-| [01주차(09.04 ~ 09.10): Ch01 ~ CH04 ]() |
-| [02주차(09.11 ~ 09.17): Ch05 ~ CH06 ]() |
-| [03주차(09.18 ~ 09.24): Ch07 ~ CH08 ]() |
-| [04주차(09.25 ~ 10.01): Ch09 ~ CH09 ]() |
-| [05주차(10.02 ~ 10.08): Ch10 ~ CH11 ]() |
-| [06주차(10.09 ~ 10.15): Ch12 ~ CH12 ]() |
-| [07주차(10.16 ~ 10.22): Ch13 ~ CH13 ]() |
-| [08주차(10.23 ~ 10.29): Ch14 ~ CH14 ]() |
-| [09주차(10.30 ~ 11.05): Ch15 ~ CH16 ]() |
-| [10주차(11.06 ~ 11.12): Ch17 ~ CH18 ]() |
-| [11주차(11.13 ~ 11.19): Ch19 ~ CH20 ]() |
-| [12주차(11.20 ~ 11.26): Ch21 ~ CH22 ]() |
+| 주차별 분량                                                                                          |
+|:------------------------------------------------------------------------------------------------|
+| [01주차(09.04 ~ 09.10): Ch01 ~ CH04 ](https://github.com/COW-edu/learn-docker-23/tree/main/part1) |
+| [02주차(09.11 ~ 09.17): Ch05 ~ CH06 ](https://github.com/COW-edu/learn-docker-23/tree/main/part1) |
+| [03주차(09.18 ~ 09.24): Ch07 ~ CH08 ](https://github.com/COW-edu/learn-docker-23/tree/main/part2) |
+| [04주차(09.25 ~ 10.01): Ch09 ~ CH09 ](https://github.com/COW-edu/learn-docker-23/tree/main/part2) |
+| [05주차(10.02 ~ 10.08): Ch10 ~ CH11 ](https://github.com/COW-edu/learn-docker-23/tree/main/part2) |
+| [06주차(10.09 ~ 10.15): Ch12 ~ CH12 ](https://github.com/COW-edu/learn-docker-23/tree/main/part3) |
+| [07주차(10.16 ~ 10.22): Ch13 ~ CH13 ](https://github.com/COW-edu/learn-docker-23/tree/main/part3) |
+| [08주차(10.23 ~ 10.29): Ch14 ~ CH14 ](https://github.com/COW-edu/learn-docker-23/tree/main/part3) |
+| [09주차(10.30 ~ 11.05): Ch15 ~ CH16 ](https://github.com/COW-edu/learn-docker-23/tree/main/part3) |
+| [10주차(11.06 ~ 11.12): Ch17 ~ CH18 ](https://github.com/COW-edu/learn-docker-23/tree/main/part4) |
+| [11주차(11.13 ~ 11.19): Ch19 ~ CH20 ](https://github.com/COW-edu/learn-docker-23/tree/main/part4) |
+| [12주차(11.20 ~ 11.26): Ch21 ~ CH22 ](https://github.com/COW-edu/learn-docker-23/tree/main/part4) |
 
 1부 도커 컨테이너와 이미지 이해하기(2주)
 - 1장 시작하기 전에
