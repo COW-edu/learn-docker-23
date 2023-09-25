@@ -21,7 +21,7 @@
 
 `docker container inspect [container id]` 대상 컨테이너의 상세한 정보 출력 → json 형태  
 
-`docker container run --detach --publish 8088:80 [이미지 명]` contianer id 출력 + 컨테이너 종료 x, 백그라운드에서 동작  
+`docker container run --detach --publish 8088:80 [이미지 명]` container id 출력 + 컨테이너 종료 x, 백그라운드에서 동작  
 - `--detach` : 컨테이너를 백그라운드에서 실행하며 컨테이너 id 출력 (alias : -d)
 - `--publish` : 컨테이너 포트를 호스트 컴퓨터에 공개  
 
